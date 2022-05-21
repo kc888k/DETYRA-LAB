@@ -1,0 +1,42 @@
+#include<stdio.h>
+int main()
+{
+	char ch;
+	printf("futni nje shkronje:");
+	scanf("%c",&ch);
+	switch(ch)
+	{
+		case'a':
+		printf("zanore");
+		break;
+		case'e':
+		printf("zanore");
+		break;
+		case'i':
+		printf("zanore");
+		break;
+		case'o':
+		printf("zanore");
+		break;
+		case'u':
+		printf("zanore");
+		break;
+		case'A':
+		printf("zanore");
+		break;
+		case'E':
+		printf("zanore");
+		break;
+		case'I':
+		printf("zanore");
+		break;
+		case'O':
+		printf("zanore");
+		break;
+		case'U':
+		printf("zanore");
+		break;
+		default:
+		printf("bashketingellore");		
+	}
+}
